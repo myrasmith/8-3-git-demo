@@ -6,7 +6,4 @@ Underworld
 Pan's Labrynth
 The Hire
 Panda Cheese Commercials
-<<<<<<< HEAD
 Back to the future
-=======
->>>>>>> origin
